@@ -14,7 +14,6 @@ import time
 import datetime as d
 import base64
 from datetime import datetime
-from translate import Translator
 
 data_load_state = st.text("Cargando datos.....")
 
