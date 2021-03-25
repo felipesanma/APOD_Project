@@ -1,0 +1,6 @@
+~umpy==1.18.5
+requests==2.24.0
+pandas==1.0.5
+streamlit==0.78.0
+translate==3.5.0
+numpy==1.20.1
